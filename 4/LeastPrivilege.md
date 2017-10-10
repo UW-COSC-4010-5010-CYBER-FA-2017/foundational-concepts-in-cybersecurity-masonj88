@@ -9,3 +9,8 @@ of attack.
 ### Non-Example ###
 In the non-example, all users have access to all the databases.  Although users may never enter another user's database,
 if any user is compromised, the attacker has access to all of the databases, instead of just that user's.
+
+
+
+###### Image Source ######
+https://docs.oracle.com/cd/A91202_01/901_doc/network.901/a90148/scn81082.gif
