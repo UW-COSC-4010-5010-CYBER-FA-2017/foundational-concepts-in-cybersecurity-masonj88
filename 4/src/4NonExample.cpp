@@ -27,6 +27,7 @@ int main () {
     int dbSelection;
     int whichUser = 0;
     string username;
+    string passwd;
     cout << "-----Database management tool-----" << endl << "Please enter username: ";
     cin >> username;
     cout << "Password: ";
